@@ -15,11 +15,6 @@ const data = [
                 "Name": "AKULA TEJASHWINI"
             },
             {
-                "Id": "24911A1204",
-                "Section": "IT-A",
-                "Name": "ATHELLI SAIKIRAN"
-            },
-            {
                 "Id": "24911A1205",
                 "Section": "IT-A",
                 "Name": "B KARTHIK GOUD"
@@ -175,11 +170,6 @@ const data = [
                 "Name": "LUV SINGH"
             },
             {
-                "Id": "24911A1236",
-                "Section": "IT-A",
-                "Name": "MADIRE SAI KRISHNA"
-            },
-            {
                 "Id": "24911A1237",
                 "Section": "IT-A",
                 "Name": "MADIVAL VAISHNAVI"
@@ -210,11 +200,6 @@ const data = [
                 "Name": "NEERATI RUPA SRI"
             },
             {
-                "Id": "24911A1244",
-                "Section": "IT-A",
-                "Name": "P KARTHIK YADAV"
-            },
-            {
                 "Id": "24911A1245",
                 "Section": "IT-A",
                 "Name": "P KRISHNA KARTHIK"
@@ -238,11 +223,6 @@ const data = [
                 "Id": "24911A1249",
                 "Section": "IT-A",
                 "Name": "PUNYAVATHI MANOJ ACHARI"
-            },
-            {
-                "Id": "24911A1250",
-                "Section": "IT-A",
-                "Name": "RACCHA VIGNESH"
             },
             {
                 "Id": "24911A1251",
@@ -313,11 +293,6 @@ const data = [
                 "Id": "24911A1265",
                 "Section": "IT-A",
                 "Name": "Y JAIKRITH"
-            },
-            {
-                "Id": "23911A1259",
-                "Section": "IT-A",
-                "Name": "THOTA YESHWANTH KUMAR"
             },
             {
                 "Id": "25915A1201",
@@ -1049,6 +1024,7 @@ const data = [
 ]
 
 export {data};
+
 
 
 
