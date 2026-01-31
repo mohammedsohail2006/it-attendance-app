@@ -515,11 +515,6 @@ const data = [
                 "Name": "MADDULA NARENDAR"
               },
               {
-                "Id": "24911A12A4",
-                "Section": "IT-B",
-                "Name": "MANDADI YASHWANTH REDDY"
-              },
-              {
                 "Id": "24911A12A5",
                 "Section": "IT-B",
                 "Name": "MENGANI SNEETHU"
@@ -1024,6 +1019,7 @@ const data = [
 ]
 
 export {data};
+
 
 
 
