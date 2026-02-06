@@ -517,7 +517,7 @@ const data = [
               {
                 "Id": "24911A12A4",
                 "Section": "IT-B",
-                "Name": "Mandadi Yashwanth Reddy"
+                "Name": "MANDADI YASHWANTH REDDY"
               },
               {
                 "Id": "24911A12A5",
@@ -1024,6 +1024,7 @@ const data = [
 ]
 
 export {data};
+
 
 
 
