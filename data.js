@@ -94,11 +94,7 @@ const data = [
                 "Section": "IT-A",
                 "Name": "DEVASOTH TANISHKA"
             },
-            {
-                "Id": "24911A1221",
-                "Section": "IT-A",
-                "Name": "ELTEM VIJAY KUMAR"
-            },
+            
             {
                 "Id": "24911A1222",
                 "Section": "IT-A",
@@ -1024,6 +1020,7 @@ const data = [
 ]
 
 export {data};
+
 
 
 
